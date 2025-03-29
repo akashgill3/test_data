@@ -1,5 +1,6 @@
 {
-  "description": "Description for principle6",
-  "author": "Test Author",
-  "createdDate": "2025-03-27T22:08:50-04:00"
+    "owner": "user2",
+    "tags": ["tag3", "tag5"],
+    "name": "Principle6",
+    "value": "value 48"
 }
