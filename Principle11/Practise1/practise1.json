@@ -1,6 +1,6 @@
 {
-    "owner": "user2",
-    "tags": ["tag1", "tag4"],
+    "owner": "user1",
+    "tags": ["tag3", "tag5"],
     "name": "Practise1",
-    "metrics": "metric1 40"
+    "metrics": "metric1 23"
 }
