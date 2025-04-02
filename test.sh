@@ -70,7 +70,7 @@ EOF
 }
 
 # Create 20 principles
-for i in {1..20}; do
+for i in {1..10}; do
     principle_dir="Principle$i"
     mkdir -p "$principle_dir"
     
@@ -80,7 +80,7 @@ for i in {1..20}; do
     
     # Create 1-5 practises
     num_practises=$((RANDOM % 5 + 1))
-    for j in {1..5}; do
+    for j in {1..3}; do
         if [ $j -le $num_practises ]; then
             practise_dir="$principle_dir/Practise$j"
             mkdir -p "$practise_dir"
